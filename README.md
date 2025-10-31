@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anas Koussa
 
-🎓 **Technische Informatik Student @ BHT Berlin** | Passionate about **system software, signal processing & app development**
+🎓 **Computer Science Student @ BHT Berlin** | Passionate about **system software, signal processing & app development**
 
 💻 Currently building: **Habitorium** – my personalized productivity & habit tracking app  
 
